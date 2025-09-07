@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APPSIoT - Lab 1</string>
+    <string name="titulo_principal">APPSIoT - Lab 1</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="teleahorcado">TeleAhorcado</string>
+    <string name="ingresenombre">Ingrese su nombre</string>
+    <string name="jugar">Jugar</string>
+    <string name="logo_antena">Logo de la antena</string>
+    <string name="nuevojuego">Nuevo Juego</string>
+    <string name="seleccione_tematica">Seleccione una temática:</string>
+    <string name="redes">Redes</string>
+    <string name="ciberseguridad">Ciberseguridad</string>
+    <string name="fibra_optica">Fibra Óptica</string>
+</resources>
